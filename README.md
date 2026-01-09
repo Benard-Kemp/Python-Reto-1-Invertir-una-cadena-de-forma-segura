@@ -27,15 +27,18 @@ La función debe cumplir las siguientes reglas:
 
 ## 🧪 Ejemplos
 
-```python
 invertir_cadena_segura("hola")      # "aloh"
 invertir_cadena_segura("")          # ""
 invertir_cadena_segura(None)        # ""
 invertir_cadena_segura(123)         # TypeError
 
+---
+
 ## 🧩 Implementación
 
 El archivo principal es: reto_01_invertir_cadena.py
+
+---
 
 ## ✅ Tests con pytest
 
