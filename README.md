@@ -33,4 +33,45 @@ invertir_cadena_segura("")          # ""
 invertir_cadena_segura(None)        # ""
 invertir_cadena_segura(123)         # TypeError
 
+## 🧩 Implementación
 
+El archivo principal es: reto_01_invertir_cadena.py
+
+## ✅ Tests con pytest
+
+Los tests están definidos en: test_reto_01_invertir_cadena.py
+
+Incluyen:
+
+casos normales,
+cadena vacía,
+None
+tipos incorrectos.
+
+---
+
+## 📚 Qué se aprende con este reto
+
+Uso de slicing para invertir cadenas
+Validación explícita de entradas
+Diferencia entre retornar valores por defecto y lanzar errores
+Escritura de tests simples y efectivos
+
+---
+
+## 🚀 Siguiente paso
+
+Continúa con el Reto #2 — Contar palabras en una frase para seguir practicando manipulación de strings y validación básica.
+
+---
+
+## 📌 Proyecto SolveConPython
+
+[SolveConPython](https://solveconpython.com) es un proyecto educativo enfocado en:
+
+aprendizaje práctico,
+código claro,
+reglas explícitas,
+tests desde el inicio.
+
+Cada reto está diseñado para resolverse en sesiones cortas y mejorar progresivamente tus habilidades en Python.
