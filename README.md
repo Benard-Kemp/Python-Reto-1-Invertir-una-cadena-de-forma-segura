@@ -67,7 +67,7 @@ Continúa con el Reto #2 — Contar palabras en una frase para seguir practicand
 
 ## 📌 Proyecto SolveConPython
 
-(SolveConPython)[https://solveconpython.com] es un proyecto educativo enfocado en:
+[SolveConPython]:(https://solveconpython.com) es un proyecto educativo enfocado en:
 
 aprendizaje práctico,
 código claro,
